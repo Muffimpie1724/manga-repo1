@@ -15,7 +15,7 @@
 > Keep using below `...yuzono/manga-repo...` URL, regardless where this actual GH repository is.
 
 ```html
-https://raw.githubusercontent.com/yuzono/manga-repo/repo/index.min.json
+https://raw.githubusercontent.com/Muffimpie1724/manga-repo1/refs/heads/repo/index.min.json
 ```
 just paste above URL into your manga repo
 
